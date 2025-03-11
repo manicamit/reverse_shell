@@ -1,0 +1,86 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Screenshot files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# Log files
+*.log
+logs/
+log/
+
+# Command history
+.command_history
+.history
+.bash_history
+
+# Document files
+*.docx
+*.doc
+*.pdf
+*.odt
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+.temp/
+tmp/
+.tmp/
+
