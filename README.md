@@ -52,6 +52,9 @@ Once connected, you can use various commands:
 - `broadcast <command>`: Send a command to all connected clients
 - `help`: Display available commands
 
+###**Note**
+Will fix the issues regarding cross platform errors soon. Peace✌️
+  
 ## ⚠️ Security Warning
 **IMPORTANT**: This tool is designed for educational purposes, security testing, and system administration only. Unauthorized access to computer systems is illegal and unethical.
 
